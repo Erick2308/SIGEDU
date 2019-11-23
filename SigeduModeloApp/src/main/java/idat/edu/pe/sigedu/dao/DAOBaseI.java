@@ -10,5 +10,5 @@ public interface DAOBaseI <T, ID>{
     void actualizar (T object);
     void borrar (ID id);
     
-    
+       
 }
